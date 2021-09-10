@@ -40,7 +40,7 @@ Originally I studied digital arts where I did a few interactive proyects but did
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=Unity&style=social)&nbsp;&nbsp;
 ![Processing](https://img.shields.io/badge/-Processing-black?logo=processingfoundation&style=social)&nbsp;&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?logo=visualstudiocode&style=social)&nbsp;&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?logo=photoshop&style=social)&nbsp;&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?logo=adobephotoshop&style=social)&nbsp;&nbsp;
 
 ### I've used them a few times 
 
